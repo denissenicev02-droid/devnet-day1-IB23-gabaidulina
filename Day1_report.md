@@ -57,7 +57,7 @@ summary.json:
     "token": "D1-IB-23-5b-05-A84D"
   }
 }
-
+```
 ### Pytest
 ![Image alt](https://github.com/denissenicev02-droid/devnet-day1-IB23-gabaidulina/raw/master/screns/scren3.png)
 
