@@ -1,0 +1,25 @@
+* 5162ace (HEAD -> master, origin/master) Resolve README conflict (Day2)
+*   8d32432 Merge branch 'feature/day2-readme-B'
+|\  
+| * 2d528a3 (origin/feature/day2-readme-B, feature/day2-readme-B) Day2 readme update B
+* | e5d376b Day2 readme update A
+* |   625c9f7 Merge branch 'feature/day2-readme-A'
+|\ \  
+| |/  
+|/|   
+| * 3c2befd (origin/feature/day2-readme-A, feature/day2-readme-A) Day2 readme update A
+| * 4aab752 changes
+* | 857cc87 Add Progress section to README
+* | 1138554 Changes
+* | 9ccc095 changes
+* |   8bc5a66 Merge pull request #1 from denissenicev02-droid/feature/day2-dataformats
+|\ \  
+| * | 1c67022 (origin/feature/day2-dataformats, feature/day2-dataformats) Add Day2: data formats script, schema, tests
+| |/  
+| * f6cc442 Add PyYAML and jsonschema to requirements
+|/  
+* b0b4cfc screns and report
+* 5312846 screns and report
+* 0ef27bc initial commit
+* e0fcc26 initial commit
+* cefd620 (origin/main) Initial commit
