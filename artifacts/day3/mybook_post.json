@@ -1,0 +1,15 @@
+{
+  "api_key_sha256": "137e39570d9d7667d6d34231bdb33e8795f769b40d4fd217ab5128a67801ddf3",
+  "request": {
+    "author": "Gabaidulina",
+    "id": 5005,
+    "isbn": "978-05cb1163ec",
+    "title": "My DevNet Book cb1163ec"
+  },
+  "response": {
+    "author": null,
+    "id": null,
+    "title": null
+  },
+  "status_code": 200
+}

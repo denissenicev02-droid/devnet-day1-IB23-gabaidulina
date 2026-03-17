@@ -1,0 +1,66 @@
+{
+  "count": 10,
+  "items": [
+    {
+      "author": "Cisco Systems Inc.",
+      "id": 2,
+      "isbn": "000-0000000123",
+      "title": "Linux for Networkers"
+    },
+    {
+      "author": "Cisco Systems Inc.",
+      "id": 3,
+      "isbn": "000-0000001123",
+      "title": "NetAcad: 20 Years Of Online-Learning"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 5005,
+      "isbn": "978-05cb1163ec",
+      "title": "My DevNet Book cb1163ec"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7000,
+      "isbn": "978-0-664-66746-7",
+      "title": "Object-based holistic migration [cb1163ec]"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7001,
+      "isbn": "978-1-01-252168-4",
+      "title": "Distributed uniform firmware [cb1163ec]"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7002,
+      "isbn": "978-0-12-210113-7",
+      "title": "Open-architected hybrid flexibility [cb1163ec]"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7003,
+      "isbn": "978-1-193-67159-8",
+      "title": "Vision-oriented maximized hub [cb1163ec]"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7004,
+      "isbn": "978-1-328-30061-4",
+      "title": "Robust methodical middleware [cb1163ec]"
+    },
+    {
+      "author": "Mark A. Sportack",
+      "id": 0,
+      "isbn": "978-1578700714",
+      "title": "IP Routing Fundamentals"
+    },
+    {
+      "author": "Stef Maruch Aahz Maruch",
+      "id": 1,
+      "isbn": "978-0471778646",
+      "title": "Python for Dummies"
+    }
+  ],
+  "status_code": 200
+}

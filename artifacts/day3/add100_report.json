@@ -1,0 +1,45 @@
+{
+  "added_fail": 0,
+  "added_ok": 100,
+  "api_key_sha256": "137e39570d9d7667d6d34231bdb33e8795f769b40d4fd217ab5128a67801ddf3",
+  "author_used": "Gabaidulina",
+  "count_requested": 100,
+  "generated_utc": "2026-03-17T21:38:58.556276+00:00",
+  "id_range": [
+    7000,
+    7099
+  ],
+  "sample_books": [
+    {
+      "author": "Gabaidulina",
+      "id": 7000,
+      "isbn": "978-1-310-81961-2",
+      "title": "Visionary bandwidth-monitored functionalities [cb1163ec]"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7001,
+      "isbn": "978-1-67386-148-8",
+      "title": "Synchronized 24hour attitude [cb1163ec]"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7002,
+      "isbn": "978-1-65247-734-1",
+      "title": "Cloned interactive Graphic Interface [cb1163ec]"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7003,
+      "isbn": "978-1-884471-96-4",
+      "title": "Switchable mission-critical encryption [cb1163ec]"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7004,
+      "isbn": "978-0-553-46989-9",
+      "title": "Vision-oriented national project [cb1163ec]"
+    }
+  ],
+  "tag": "cb1163ec"
+}

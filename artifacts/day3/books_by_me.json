@@ -1,0 +1,42 @@
+{
+  "count": 6,
+  "items": [
+    {
+      "author": "Gabaidulina",
+      "id": 5005,
+      "isbn": "978-05cb1163ec",
+      "title": "My DevNet Book cb1163ec"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7000,
+      "isbn": "978-1-310-81961-2",
+      "title": "Visionary bandwidth-monitored functionalities [cb1163ec]"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7001,
+      "isbn": "978-1-67386-148-8",
+      "title": "Synchronized 24hour attitude [cb1163ec]"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7002,
+      "isbn": "978-1-65247-734-1",
+      "title": "Cloned interactive Graphic Interface [cb1163ec]"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7003,
+      "isbn": "978-1-884471-96-4",
+      "title": "Switchable mission-critical encryption [cb1163ec]"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7004,
+      "isbn": "978-0-553-46989-9",
+      "title": "Vision-oriented national project [cb1163ec]"
+    }
+  ],
+  "status_code": 200
+}

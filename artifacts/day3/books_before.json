@@ -1,0 +1,56 @@
+{
+  "count": 10,
+  "items": [
+    {
+      "author": "Mark A. Sportack",
+      "id": 0,
+      "title": "IP Routing Fundamentals"
+    },
+    {
+      "author": "Stef Maruch Aahz Maruch",
+      "id": 1,
+      "title": "Python for Dummies"
+    },
+    {
+      "author": "Cisco Systems Inc.",
+      "id": 2,
+      "title": "Linux for Networkers"
+    },
+    {
+      "author": "Cisco Systems Inc.",
+      "id": 3,
+      "title": "NetAcad: 20 Years Of Online-Learning"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 5005,
+      "title": "My DevNet Book cb1163ec"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7000,
+      "title": "Object-based holistic migration [cb1163ec]"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7001,
+      "title": "Distributed uniform firmware [cb1163ec]"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7002,
+      "title": "Open-architected hybrid flexibility [cb1163ec]"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7003,
+      "title": "Vision-oriented maximized hub [cb1163ec]"
+    },
+    {
+      "author": "Gabaidulina",
+      "id": 7004,
+      "title": "Robust methodical middleware [cb1163ec]"
+    }
+  ],
+  "status_code": 200
+}
