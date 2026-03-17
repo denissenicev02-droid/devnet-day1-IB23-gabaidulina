@@ -1,17 +1,17 @@
 {
   "artifacts_sha256": {
-    "add100_report": "e93c2ce72f1f48d2bcf901d0c7a91c80175c5142690d4d70d88a90b485555a92",
-    "books_before": "f35ce4e9cb78076e5e4e07fec79e8628d858ec0df3788303f36975895e3bbe0c",
-    "books_by_me": "56eb5e7627954717fb42cc67458becb8bc0bbf9268f1f480190d1d1fb18c7d41",
-    "books_sorted_isbn": "a537d03efabdd53941e6fd890c4bf76386035e24bb32de3e042fa5233ada2ca7",
+    "add100_report": "8247e31cfd94ceb499fcd43336c22b612a78d2a2fc42c453150562245079a624",
+    "books_before": "de7439d08160b40ca443789183c91456256cb8df41b0cf1a412459699657e782",
+    "books_by_me": "3dfef600baead5fd016823d5d1ca04a33abb1aa49d69c0033f713981baacd845",
+    "books_sorted_isbn": "881a0fe47f7532269c160c4c145db9f0281f6a2e191d3ec8d2af7f5e7f4bd46d",
     "curl_get_books": "de64bae22fde03848fbeb14e2a6c661cf7e9eed12f29b574d596224bf5bf6bf9",
     "curl_get_books_isbn": "ee1093008a5d89a75d9aaf8a2c8a7987c8841bce0c4028d02d32e78f083fb227",
     "curl_get_books_sorted": "6e87e9da9e47b139ee6633b979ddefac161bd7ee3006a66118067b2b866bcef5",
-    "mybook_post": "0df6d68bf318827080ece7e40c794ad7a0659081c7c275f1c990548d08bb709b",
-    "postman_collection": "86188685cd18df3d5ee58a76c0513c8077b984509073d69b935e56a718430612",
+    "mybook_post": "cbe1d5a33e8702679a1cd7b6b2c566c4e5cded28f1ae32fc21f1030be17feb18",
+    "postman_collection": "b87a9a2a2e8143bef5317e3ef8271cf93eacf94ef216ed4b376cd1bd3703fb5d",
     "postman_environment": "28ee6a23d5aa199ce30cfd1f789f39805009c36306e462748f63f285dc74c005"
   },
-  "generated_utc": "2026-03-17T21:39:08.979795+00:00",
+  "generated_utc": "2026-03-17T22:22:28.587631+00:00",
   "lab": {
     "apihost": "http://library.demo.local",
     "must_use": {

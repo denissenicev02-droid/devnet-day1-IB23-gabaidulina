@@ -1,10 +1,10 @@
 {
   "added_fail": 0,
   "added_ok": 100,
-  "api_key_sha256": "137e39570d9d7667d6d34231bdb33e8795f769b40d4fd217ab5128a67801ddf3",
+  "api_key_sha256": "4427914adb1b7c9b76c8d4417304a58c88a834b6f8a4278aaf75c4c9b0c771a3",
   "author_used": "Gabaidulina",
   "count_requested": 100,
-  "generated_utc": "2026-03-17T21:38:58.556276+00:00",
+  "generated_utc": "2026-03-17T22:18:10.382093+00:00",
   "id_range": [
     7000,
     7099
@@ -13,32 +13,32 @@
     {
       "author": "Gabaidulina",
       "id": 7000,
-      "isbn": "978-1-310-81961-2",
-      "title": "Visionary bandwidth-monitored functionalities [cb1163ec]"
+      "isbn": "978-1-55922-141-2",
+      "title": "Implemented upward-trending synergy [cb1163ec]"
     },
     {
       "author": "Gabaidulina",
       "id": 7001,
-      "isbn": "978-1-67386-148-8",
-      "title": "Synchronized 24hour attitude [cb1163ec]"
+      "isbn": "978-1-64530-331-2",
+      "title": "Persevering foreground utilization [cb1163ec]"
     },
     {
       "author": "Gabaidulina",
       "id": 7002,
-      "isbn": "978-1-65247-734-1",
-      "title": "Cloned interactive Graphic Interface [cb1163ec]"
+      "isbn": "978-1-4174-3612-5",
+      "title": "Focused 4thgeneration forecast [cb1163ec]"
     },
     {
       "author": "Gabaidulina",
       "id": 7003,
-      "isbn": "978-1-884471-96-4",
-      "title": "Switchable mission-critical encryption [cb1163ec]"
+      "isbn": "978-0-07-456701-2",
+      "title": "Triple-buffered asynchronous attitude [cb1163ec]"
     },
     {
       "author": "Gabaidulina",
       "id": 7004,
-      "isbn": "978-0-553-46989-9",
-      "title": "Vision-oriented national project [cb1163ec]"
+      "isbn": "978-0-277-13385-4",
+      "title": "Enterprise-wide content-based intranet [cb1163ec]"
     }
   ],
   "tag": "cb1163ec"
