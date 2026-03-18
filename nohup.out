@@ -1,0 +1,20 @@
+nohup: ignoring input
+ * Tip: There are .env or .flaskenv files present. Do "pip install python-dotenv" to use them.
+ * Serving Flask app 'password-evolution'
+ * Debug mode: off
+Traceback (most recent call last):
+  File "password-evolution.py", line 77, in <module>
+    app.run(host='0.0.0.0', port=5000, ssl_context='adhoc')
+  File "/home/devasc/devnet-day1-IB23-gabaidulina/.venv/lib/python3.8/site-packages/flask/app.py", line 625, in run
+    run_simple(t.cast(str, host), port, self, **options)
+  File "/home/devasc/devnet-day1-IB23-gabaidulina/.venv/lib/python3.8/site-packages/werkzeug/serving.py", line 1093, in run_simple
+    srv = make_server(
+  File "/home/devasc/devnet-day1-IB23-gabaidulina/.venv/lib/python3.8/site-packages/werkzeug/serving.py", line 930, in make_server
+    return ThreadedWSGIServer(
+  File "/home/devasc/devnet-day1-IB23-gabaidulina/.venv/lib/python3.8/site-packages/werkzeug/serving.py", line 803, in __init__
+    ssl_context = generate_adhoc_ssl_context()
+  File "/home/devasc/devnet-day1-IB23-gabaidulina/.venv/lib/python3.8/site-packages/werkzeug/serving.py", line 602, in generate_adhoc_ssl_context
+    cert, pkey = generate_adhoc_ssl_pair()
+  File "/home/devasc/devnet-day1-IB23-gabaidulina/.venv/lib/python3.8/site-packages/werkzeug/serving.py", line 514, in generate_adhoc_ssl_pair
+    raise TypeError(
+TypeError: Using ad-hoc certificates requires the cryptography library.
