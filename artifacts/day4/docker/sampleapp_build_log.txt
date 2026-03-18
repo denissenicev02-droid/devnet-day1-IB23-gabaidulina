@@ -5,17 +5,16 @@ Step 2/5 : RUN pip install --no-input --progress-bar off flask
  ---> Using cache
  ---> fb746c46b7d4
 Step 3/5 : COPY sample_app.py /home/myapp/
+ ---> Using cache
  ---> 49d1530c01e0
 Step 4/5 : EXPOSE 8080
- ---> Running in 0a21ab78b186
-Removing intermediate container 0a21ab78b186
+ ---> Using cache
  ---> 79b91f039cef
 Step 5/5 : CMD python3 /home/myapp/sample_app.py
- ---> Running in 58fb6ee4ac1f
-Removing intermediate container 58fb6ee4ac1f
+ ---> Using cache
  ---> a6319167244e
 Successfully built a6319167244e
 Successfully tagged sampleapp:day4
-3d4b5e3222e487a44a0468a9833e64405583222083ce1e6632edf0fb3a0f2926
-CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                  PORTS                    NAMES
-3d4b5e3222e4        sampleapp:day4      "/bin/sh -c 'python3…"   1 second ago        Up Less than a second   0.0.0.0:8080->8080/tcp   samplerunning
+69c659a364e6d58ebc66fdaa674a39188f5e801d797cde0140bd728cd8be3d02
+CONTAINER ID        IMAGE               COMMAND                  CREATED                  STATUS                  PORTS                    NAMES
+69c659a364e6        sampleapp:day4      "/bin/sh -c 'python3…"   Less than a second ago   Up Less than a second   0.0.0.0:8080->8080/tcp   samplerunning
