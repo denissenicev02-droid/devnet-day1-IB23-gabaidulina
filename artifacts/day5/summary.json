@@ -1,0 +1,28 @@
+{
+    "schema_version": "5.0",
+    "student": {
+        "token": "D1-IB-23-5b-05-A84D",
+        "token_hash8": "cb1163ec",
+        "name": "",
+        "group": ""
+    },
+    "yang": {
+        "ok": true,
+        "evidence_sha": "949de5d3ee156508fe0af9f6a93bb6b16cf3e397ba9f6ba226e1c50bb5256edb"
+    },
+    "webex": {
+        "ok": true,
+        "room_title_contains_hash8": true,
+        "evidence_sha": "3b72f8816324c171bef1957ca0906119ee4d8d6273b81a24428d5e0a1eeb03d2"
+    },
+    "pt": {
+        "ok": true,
+        "empty_ticket_seen": true,
+        "evidence_sha": "78633c6cd7f2940fd665c6d81c10c7d7da1678ed338de544335a80d2e8a3d9cc"
+    },
+    "bonus": {
+        "optional_ok": false,
+        "evidence_sha": null
+    },
+    "validation_passed": true
+}
