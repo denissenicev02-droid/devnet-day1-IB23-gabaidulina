@@ -1,0 +1,104 @@
+{
+	"info": {
+		"_postman_id": "97f64fd7-2065-4945-9728-af5d3a6ab221",
+		"name": "Day5",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "53260752",
+		"_collection_link": "https://denissenicev02-droid-2198362.postman.co/workspace/denis's-Workspace~59d37b82-49a6-464a-8d15-219e948f4e6e/collection/53260752-97f64fd7-2065-4945-9728-af5d3a6ab221?action=share&source=collection_link&creator=53260752"
+	},
+	"item": [
+		{
+			"name": "http://localhost:58000/api/v1/host",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-Auth-Token",
+						"value": "NC-146-4f07390be92c44419f55-nbi",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:58000/api/v1/host",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "58000",
+					"path": [
+						"api",
+						"v1",
+						"host"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:58000/api/v1/network-device",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-Auth-Token",
+						"value": "NC-146-4f07390be92c44419f55-nbi",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:58000/api/v1/network-device",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "58000",
+					"path": [
+						"api",
+						"v1",
+						"network-device"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:58000/api/v1/ticket",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"username\": \"cisco\",\n  \"password\": \"cisco123!\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:58000/api/v1/ticket",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "58000",
+					"path": [
+						"api",
+						"v1",
+						"ticket"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

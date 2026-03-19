@@ -1,0 +1,10 @@
+('Ticket status: ', 201)
+('Ticket: ', 'NC-146-23dc5826e99a46e88a00-nbi')
+('Request status: ', 200)
+('PC4', '\t', '192.168.102.3', '\t', '00E0.F96C.155B', '\t', 'GigabitEthernet1/0/24')
+('PC3', '\t', '10.0.2.130', '\t', '0004.9A42.C245', '\t', 'GigabitEthernet1/0/24')
+('PC1', '\t', '10.0.1.129', '\t', '00E0.A330.3359', '\t', 'GigabitEthernet1/0/22')
+('PC2', '\t', '10.0.2.129', '\t', '0060.47C1.A4DB', '\t', 'GigabitEthernet1/0/23')
+('Admin', '\t', '10.0.1.130', '\t', '0050.0FCE.B095', '\t', 'GigabitEthernet1/0/21')
+('Example Server', '\t', '192.168.101.100', '\t', '000A.413D.D793', '\t', 'GigabitEthernet1/0/3')
+REST APIs (Python) finished running.
